@@ -1,0 +1,44 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2
+    },
+    {
+      "content": "hola",
+      "id": 3
+    },
+    {
+      "content": "chau",
+      "id": 4
+    },
+    {
+      "content": "juan",
+      "id": 5
+    },
+    {
+      "content": "agus",
+      "id": 6
+    },
+    {
+      "content": "daniel",
+      "id": 7
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "juan",
+      "number": "111-44779",
+      "id": 2
+    }
+  ]
+}
